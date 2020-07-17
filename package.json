@@ -1,0 +1,15 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator utility",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "Aditya",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.4.0"
+  }
+}
